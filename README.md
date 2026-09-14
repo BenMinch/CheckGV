@@ -1,7 +1,9 @@
 ## CheckGV
 A completeness and redundancy estimator for giant viruses of the phylum Nucleocytoviricota. 
 ## Install
-
+```bash
+git clone https://github.com/BenMinch/CheckGV
+```
 ```bash
 pip install -r requirements.txt --break-system-packages
 ```
