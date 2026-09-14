@@ -1,0 +1,2 @@
+pyhmmer>=0.10
+pyrodigal>=3.0
